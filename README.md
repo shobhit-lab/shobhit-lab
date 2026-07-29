@@ -134,17 +134,22 @@ Current focus is building production-quality robotics projects including
 
 <p align="center">
 
-<img src="images/google-cloud.png" width="380"/>
-<img src="images/iit-madras.png" width="380"/>
+<img src="certifications/IIT-Madras-Introduction-to-Electronic-Systems.jpg" width="380"/>
+<img src="certifications/IIT-Madras-Introduction-to-Data-Science-and-AI.jpg" width="380"/>
 
 <br><br>
 
-<img src="images/salesforce-champion.png" width="380"/>
-<img src="images/salesforce-innovator.png" width="380"/>
+<img src="certifications/Google-Arcade-Voyage-AI-and-Cloud-Deployment.png" width="380"/>
+<img src="certifications/Google-Arcade-GKE-Operations-and-Networking.png" width="380"/>
 
 <br><br>
 
-<img src="images/nsdc-generative-ai.png" width="380"/>
+<img src="certifications/Google-Cloud-Security-and-DevOps-Foundations.png" width="380"/>
+<img src="certifications/Anthropic-Claude-Code-in-Action.png" width="380"/>
+
+<br><br>
+
+<img src="certifications/NSDC-Generative-AI-Bootcamp.png" width="380"/>
 
 </p>
 
