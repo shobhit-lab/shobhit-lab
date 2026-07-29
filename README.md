@@ -26,11 +26,15 @@ Building intelligent robotic systems powered by AI, Computer Vision and Autonomo
 
 ### 👋 About Me
 
-* 🤖 Building intelligent robotic systems with **AI & Computer Vision**
-* 🚀 Aspiring **Robotics AI Engineer**
-* 🦾 Interested in **Autonomous Navigation • Robot Perception • Edge AI**
-* ⚙️ Working with **ROS 2 • C++ • Python • OpenCV • PyTorch • CUDA**
-* 📈 Learning by building real-world robotics projects and contributing to open source
+I build robots and AI systems — exploring how machines can perceive, learn, and interact with the world.
+
+🦾  Currently working on robotics projects involving ROS 2, Computer Vision, and autonomous navigation.
+
+🧠  Most days I'm deep into C++ / Python / PyTorch / CUDA / OpenCV.
+
+🌱  Currently exploring SLAM, simulation, reinforcement learning, and edge deployment.
+
+⚡ Fun fact: I like breaking robots, debugging them, and figuring out why they stopped moving.
 
 ---
 
