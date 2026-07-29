@@ -185,7 +185,7 @@ Current focus is building production-quality robotics projects including
 <div align="center">
 <h2>
   
-<i>Focus on the craft, not the applaus!.</i>
+<i>Focus on the craft, not the applaus!</i>
 </h2>
 
 </div>
