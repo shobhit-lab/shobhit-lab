@@ -139,7 +139,7 @@ Current focus is building production-quality robotics projects including
 
 <br><br>
 
-<img src="certifications/Google-Arcade-Voyage-AI-and-Cloud-Deployment.png" width="380"/>
+<img src="certifications/Google-Level-3-Applied-Generative-AI.png" width="380"/>
 <img src="certifications/Google-Arcade-GKE-Operations-and-Networking.png" width="380"/>
 
 <br><br>
