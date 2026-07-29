@@ -165,7 +165,7 @@ Current focus is building production-quality robotics projects including
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://huggingface.co/YOUR_USERNAME">
+<a href="https://huggingface.co/shobhitsharma">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="65" height="65"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
