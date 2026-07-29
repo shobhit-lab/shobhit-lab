@@ -1,16 +1,188 @@
-## Hi there 👋
+<div align="center">
 
+# Shobhit Sharma
 
-**shobhit-lab/shobhit-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ROS 2 • Computer Vision • Deep Learning • CUDA • Autonomous Navigation
 
-Here are some ideas to get you started:
+Building intelligent robotic systems powered by AI, Computer Vision and Autonomous Navigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
 
+<a href="https://github.com/shobhit-lab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shobhit-sharma07">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shobhit1956op@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+* 🤖 Building intelligent robotic systems with **AI & Computer Vision**
+* 🚀 Aspiring **Robotics AI Engineer**
+* 🦾 Interested in **Autonomous Navigation • Robot Perception • Edge AI**
+* ⚙️ Working with **ROS 2 • C++ • Python • OpenCV • PyTorch • CUDA**
+* 📈 Learning by building real-world robotics projects and contributing to open source
+
+---
+
+# 💻 Tech Stack
+
+## Core Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python"/>
+</p>
+
+**C++ • Python**
+
+---
+
+## Also Familiar With
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,js,ts,mysql"/>
+</p>
+
+**C • JavaScript • TypeScript • SQL**
+
+---
+
+## 🤖 Robotics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MoveIt%202-0A84FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nav2-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RViz2-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/URDF-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xacro-546E7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TF2-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ros2__control-3949AB?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧠 AI / Computer Vision
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-6A1B9A?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙️ Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,cmake,vscode"/>
+</p>
+
+Git • Docker • Linux • CMake • VS Code
+
+---
+
+# Featured Projects
+
+Coming Soon.
+
+Current focus is building production-quality robotics projects including
+
+- Autonomous Mobile Robot
+- Vision-Based Robot Navigation
+- SLAM
+- AI Robot Dog
+- Reinforcement Learning Robot
+- CUDA Accelerated Vision Pipeline
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shobhit-lab&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-lab&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+
+<img src="images/google-cloud.png" width="380"/>
+<img src="images/iit-madras.png" width="380"/>
+
+<br><br>
+
+<img src="images/salesforce-champion.png" width="380"/>
+<img src="images/salesforce-innovator.png" width="380"/>
+
+<br><br>
+
+<img src="images/nsdc-generative-ai.png" width="380"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shobhit-sharma07">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:shobhit1956op@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Build. Learn. Share. Repeat."
+
+</div>
