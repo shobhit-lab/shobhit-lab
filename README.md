@@ -175,8 +175,8 @@ Current focus is building production-quality robotics projects including
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:shobhit1956op@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="65" height="65"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shobhit1956op@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Email"/>
 </a>
 
 </p>
