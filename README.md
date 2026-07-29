@@ -24,7 +24,7 @@ Building intelligent robotic systems powered by AI, Computer Vision and Autonomo
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
 * 🤖 Building intelligent robotic systems with **AI & Computer Vision**
 * 🚀 Aspiring **Robotics AI Engineer**
@@ -34,9 +34,9 @@ Building intelligent robotic systems powered by AI, Computer Vision and Autonomo
 
 ---
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 
-## Core Languages
+### Core Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python"/>
@@ -46,7 +46,7 @@ Building intelligent robotic systems powered by AI, Computer Vision and Autonomo
 
 ---
 
-## Also Familiar With
+### Also Familiar With
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,js,ts,mysql"/>
@@ -56,7 +56,7 @@ Building intelligent robotic systems powered by AI, Computer Vision and Autonomo
 
 ---
 
-## 🤖 Robotics
+### 🤖 Robotics
 
 <p align="left">
 
@@ -74,7 +74,7 @@ Building intelligent robotic systems powered by AI, Computer Vision and Autonomo
 
 ---
 
-## 🧠 AI / Computer Vision
+### 🧠 AI / Computer Vision
 
 <p align="left">
 
@@ -96,7 +96,7 @@ Building intelligent robotic systems powered by AI, Computer Vision and Autonomo
 
 ---
 
-## ⚙️ Development
+### ⚙️ Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,cmake,vscode"/>
@@ -121,17 +121,13 @@ Current focus is building production-quality robotics projects including
 
 ---
 
-# GitHub Streak
+### 📊 Activity
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=shobhit-lab&theme=github-dark-blue&hide_border=true"/>
 
 </p>
-
----
-
-# Activity Graph
 
 <p align="center">
 
@@ -141,7 +137,7 @@ Current focus is building production-quality robotics projects including
 
 ---
 
-## 🏆 Certifications
+### 🏆 Certifications
 
 <p align="center">
 
