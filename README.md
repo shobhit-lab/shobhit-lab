@@ -134,8 +134,8 @@ Current focus is building production-quality robotics projects including
 
 <p align="center">
 
-<img src="certifications/IIT-Madras-Introduction-to-Electronic-Systems.jpg" width="380"/>
-<img src="certifications/IIT-Madras-Introduction-to-Data-Science-and-AI.jpg" width="380"/>
+<img src="certifications/IIT-Madras-Introduction-to-Electronic-Systems.png" width="380"/>
+<img src="certifications/IIT-Madras-Introduction-to-Data-Science-and-AI.png" width="380"/>
 
 <br><br>
 
