@@ -134,24 +134,20 @@ Current focus is building production-quality robotics projects including
 
 <p align="center">
 
-<img src="certifications/IIT-Madras-Introduction-to-Electronic-Systems.png" width="380"/>
 <img src="certifications/IIT-Madras-Introduction-to-Data-Science-and-AI.png" width="380"/>
+<img src="certifications/IIT-Madras-Introduction-to-Electronic-Systems.png" width="380"/>
 
 <br><br>
 
-<img src="certifications/Google-Level-3-Applied-Generative-AI.png" width="380"/>
-<img src="certifications/Google-Arcade-GKE-Operations-and-Networking.png" width="380"/>
+<div align="center">
 
-<br><br>
+<div align="center">
 
-<img src="certifications/Google-Cloud-Security-and-DevOps-Foundations.png" width="380"/>
-<img src="certifications/Anthropic-Claude-Code-in-Action.png" width="380"/>
+<a href="certifications/">
+  <b>View All Certifications→</b>
+</a>
 
-<br><br>
-
-<img src="certifications/NSDC-Generative-AI-Bootcamp.png" width="380"/>
-
-</p>
+</div>
 
 ---
 
@@ -189,7 +185,7 @@ Current focus is building production-quality robotics projects including
 <div align="center">
 <h2>
   
-<i>Focus on the craft, not the applause.</i>
+<i>Focus on the craft, not the applaus!.</i>
 </h2>
 
 </div>
