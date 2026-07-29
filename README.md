@@ -161,28 +161,41 @@ Current focus is building production-quality robotics projects including
 
 ---
 
-# Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/shobhit-sharma07">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
+<img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/shobhit-lab">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://huggingface.co/YOUR_USERNAME">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="65" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://your-portfolio-link.com">
+<img src="https://skillicons.dev/icons?i=vercel" width="65" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:shobhit1956op@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
+<img src="https://skillicons.dev/icons?i=gmail" width="65" height="65"/>
 </a>
 
 </p>
 
----
-
+<br>
 <div align="center">
-
-### "Build. Learn. Share. Repeat."
+<h2>
+  
+<i>Focus on the craft, not the applause.</i>
+</h2>
 
 </div>
