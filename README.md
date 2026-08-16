@@ -99,18 +99,75 @@ Git • Docker • Linux • CMake • VS Code
 
 ---
 
-# Featured Projects
+### 🚀 Featured Projects
 
-Coming Soon.
+<p align="center">
+  <i>Building intelligent machines that can perceive, learn, and act.</i>
+</p>
 
-Current focus is building production-quality robotics projects including
+<br>
 
-- Autonomous Mobile Robot
-- Vision-Based Robot Navigation
-- SLAM
-- AI Robot Dog
-- Reinforcement Learning Robot
-- CUDA Accelerated Vision Pipeline
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/shobhit-lab/autonomous-mobile-robot">
+
+<img src="assets/projects/autonomous-robot.png"
+     width="100%"
+     alt="Autonomous Mobile Robot"/>
+
+</a>
+
+<h3>🤖 Autonomous Mobile Robot</h3>
+
+<p>
+ROS 2 • C++ • SLAM • Nav2 • Computer Vision
+</p>
+
+<a href="https://github.com/shobhit-lab/autonomous-mobile-robot">
+<b>View Project →</b>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/shobhit-lab/vision-based-robot">
+
+<img src="assets/projects/vision-robot.png"
+     width="100%"
+     alt="Vision Based Robot"/>
+
+</a>
+
+<h3>👁️ Vision-Based Robot</h3>
+
+<p>
+PyTorch • OpenCV • CUDA • ROS 2
+</p>
+
+<a href="https://github.com/shobhit-lab/vision-based-robot">
+<b>View Project →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/shobhit-lab?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW%20MORE%20PROJECTS-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
 
 ---
 
