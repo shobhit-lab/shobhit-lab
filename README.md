@@ -170,7 +170,6 @@ Git • Docker • Linux • CMake • VS Code
 </div>
 
 ---
----
 
 ### 📊 Activity
 
