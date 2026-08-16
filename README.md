@@ -101,10 +101,6 @@ Git • Docker • Linux • CMake • VS Code
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <i>Building intelligent machines that can perceive, learn, and act.</i>
-</p>
-
 <br>
 
 <div align="center">
@@ -112,47 +108,48 @@ Git • Docker • Linux • CMake • VS Code
 <table>
 <tr>
 
+<!-- PROJECT 1 -->
+
 <td width="50%" align="center">
 
-<a href="https://github.com/shobhit-lab/autonomous-mobile-robot">
+<a href="Projects/Autonomous%20AI%20Rover.PNG">
 
-<img src="assets/projects/autonomous-robot.png"
-     width="100%"
-     alt="Autonomous Mobile Robot"/>
+<img
+  src="Projects/Autonomous%20AI%20Rover.PNG"
+  width="100%"
+  alt="Autonomous AI Rover"
+/>
 
 </a>
 
-<h3>🤖 Autonomous Mobile Robot</h3>
+<h3>🤖 Autonomous AI Rover</h3>
 
 <p>
-ROS 2 • C++ • SLAM • Nav2 • Computer Vision
+<b>AI</b> • <b>Computer Vision</b> • <b>Autonomous Robotics</b>
 </p>
-
-<a href="https://github.com/shobhit-lab/autonomous-mobile-robot">
-<b>View Project →</b>
-</a>
 
 </td>
 
+
+<!-- PROJECT 2 -->
+
 <td width="50%" align="center">
 
-<a href="https://github.com/shobhit-lab/vision-based-robot">
+<a href="Projects/Mecanum%20Omnidirectional%20Robot-IITM_Project.PNG">
 
-<img src="assets/projects/vision-robot.png"
-     width="100%"
-     alt="Vision Based Robot"/>
+<img
+  src="Projects/Mecanum%20Omnidirectional%20Robot-IITM_Project.PNG"
+  width="100%"
+  alt="Mecanum Omnidirectional Robot"
+/>
 
 </a>
 
-<h3>👁️ Vision-Based Robot</h3>
+<h3>⚙️ Mecanum Omnidirectional Robot</h3>
 
 <p>
-PyTorch • OpenCV • CUDA • ROS 2
+<b>ROS 2</b> • <b>Embedded Systems</b> • <b>Omnidirectional Mobility</b>
 </p>
-
-<a href="https://github.com/shobhit-lab/vision-based-robot">
-<b>View Project →</b>
-</a>
 
 </td>
 
@@ -161,14 +158,18 @@ PyTorch • OpenCV • CUDA • ROS 2
 
 <br>
 
-<a href="https://github.com/shobhit-lab?tab=repositories">
+<a href="https://github.com/shobhit-lab/shobhit-lab/tree/main/Projects">
 
-<img src="https://img.shields.io/badge/VIEW%20MORE%20PROJECTS-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/VIEW%20MORE%20PROJECTS-161b22?style=for-the-badge&logo=github&logoColor=white"
+  alt="View More Projects"
+/>
 
 </a>
 
 </div>
 
+---
 ---
 
 ### 📊 Activity
