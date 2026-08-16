@@ -117,9 +117,7 @@ Current focus is building production-quality robotics projects including
 ### 📊 Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shobhit-lab&theme=github-dark-blue&hide_border=true&v=1"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shobhit-lab&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
